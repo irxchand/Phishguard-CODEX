@@ -201,19 +201,15 @@ python train_ssl_model.py
 
 ## Author
 
-Ishaan Chand + Team
+- Ishaan Chand
+- Dharmit Shah
+- Akul Agrawal
+- Devansh Singh
 
 ---
 
 ## License
 
 For academic and research use
-📄 requirements.txt
-fastapi
-uvicorn
-pandas
-numpy
-scikit-learn
-requests
-python-whois
-dnspython
+
+---
